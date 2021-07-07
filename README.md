@@ -30,7 +30,7 @@ Hi, I'm Vidhi Gupta, an aspiring ML Engineer and Open Source enthusiast . <br> <
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=vidhigupta&show_icons=true&hide_border=true)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=vidhigupta9&show_icons=true&hide_border=true)
 
 <!---
 vidhigupta9/vidhigupta9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
