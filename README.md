@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Vidhi!](https://shivaylamba.me) 
+### Hey 👋🏽, I'm [Vidhi!] 
 <!-- <br/>
 
 <a href="https://twitter.com/vidhig_">
