@@ -10,7 +10,7 @@
 --> 
 
 
-Hi, I'm Vidhi Gupta, an aspiring ML Engineer and Open Source enthusiast . <br> <br> 
+Hi, I'm Vidhi Gupta, a full time software engineer and an open source enthusiast . <br> <br> 
 [![Linkedin Badge](https://img.shields.io/badge/-VidhiGupta-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vidhigupta9)](https://www.linkedin.com/in/vidhigupta9/)
 [![Twitter Badge](http://img.shields.io/badge/-@vidhig_-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/vidhig_)](https://twitter.com/vidhig_) 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:gvidhi9@gmail.com)](mailto:gvidhi9@gmail.com)
